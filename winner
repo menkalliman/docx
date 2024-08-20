@@ -2,8 +2,9 @@ let card = document.getElementById("card");
 
 // Exibir a mensagem caso seja selecionado o 'sim'
 document.querySelector("#yes").addEventListener("click", function () {
-  let question = document.getElementById("question");
-  let message = document.getElementById("answer");
+  let question = document.getElementById("namora cmg pf");
+let question = document.getElementById("pf aceita");
+  let message = document.getElementById("boa escolha");
 
   card.style.backgroundImage =
     "url('https://img1.picmix.com/output/stamp/normal/5/1/0/1/1171015_f458c.gif')";
